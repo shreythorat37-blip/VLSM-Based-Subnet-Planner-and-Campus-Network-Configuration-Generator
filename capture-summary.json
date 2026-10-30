@@ -1,0 +1,27 @@
+{
+  "capture_file": "campusnet-demo.pcapng",
+  "packets": 8223,
+  "bytes": 10900241,
+  "duration_s": 22.22773,
+  "throughput_mbps": 3.923114,
+  "protocol_counts": {
+    "TCP": 2079,
+    "TLSV1.2": 114,
+    "DNS": 248,
+    "TLSV1.3": 1163,
+    "SSL": 14,
+    "TLSV1": 1,
+    "MDNS": 2,
+    "QUIC": 4600,
+    "ICMPV6": 2
+  },
+  "top_source_addresses": {
+    "10.80.215.60": 436,
+    "10.80.215.168": 379,
+    "138.199.25.79": 3,
+    "216.250.96.68": 2,
+    "104.18.39.21": 2,
+    "119.8.160.175": 1
+  },
+  "analysis_tool": "TShark (Wireshark CLI)"
+}

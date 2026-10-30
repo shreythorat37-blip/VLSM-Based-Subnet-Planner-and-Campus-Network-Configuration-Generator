@@ -1,0 +1,15 @@
+{
+  "capture_file": "campusnet-demo.pcapng",
+  "packets": 248,
+  "bytes": 37185,
+  "duration_s": 21.81076,
+  "throughput_mbps": 0.013639,
+  "protocol_counts": {
+    "DNS": 248
+  },
+  "top_source_addresses": {
+    "10.80.215.60": 124,
+    "10.80.215.168": 124
+  },
+  "analysis_tool": "TShark (Wireshark CLI)"
+}

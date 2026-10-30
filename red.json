@@ -1,0 +1,2021 @@
+{
+  "algorithm": "RED",
+  "duration_s": 20.0,
+  "arrival_rate_pps": 800.0,
+  "bandwidth_mbps": 5.0,
+  "queue_limit_packets": 50,
+  "packet_size_bytes": 1000,
+  "packets_sent": 16092,
+  "packets_received": 12224,
+  "packets_lost": 3868,
+  "packet_loss_pct": 24.037,
+  "delivery_ratio_pct": 75.963,
+  "throughput_mbps": 4.8896,
+  "avg_delay_ms": 24.8584,
+  "avg_queue_packets": 15.914,
+  "red_early_drops": 3848,
+  "tail_drops": 12,
+  "queue_samples": [
+    {
+      "time_s": 0.0004891435552935053,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 0.03027504879458317,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 0.0657250106688164,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 0.10584304151992481,
+      "queue_packets": 32
+    },
+    {
+      "time_s": 0.14031676470094503,
+      "queue_packets": 42
+    },
+    {
+      "time_s": 0.17488347345090918,
+      "queue_packets": 48
+    },
+    {
+      "time_s": 0.22175190301476436,
+      "queue_packets": 47
+    },
+    {
+      "time_s": 0.27200024234179954,
+      "queue_packets": 46
+    },
+    {
+      "time_s": 0.30838609616672846,
+      "queue_packets": 50
+    },
+    {
+      "time_s": 0.349239857340102,
+      "queue_packets": 44
+    },
+    {
+      "time_s": 0.39245691032004304,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 0.43203708389734,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 0.4597110273561212,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 0.4991169580974971,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 0.5299623470105732,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 0.5714114299728854,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 0.6018094378421757,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 0.6456291712685234,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 0.6923499849188964,
+      "queue_packets": 0
+    },
+    {
+      "time_s": 0.7385054140440138,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 0.7701509814831534,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 0.8131301772410743,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 0.8472803190707658,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 0.8964153098000215,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 0.9328980929793199,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 0.9805812481097885,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 1.019538581170151,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 1.0673434086929,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 1.092456164781999,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 1.1319572065344408,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 1.1776401766465734,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 1.2040265886839956,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 1.2582878829672686,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 1.3031838505634004,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 1.33291805892677,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 1.367727202160259,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 1.4046951262083325,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 1.448044962362109,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 1.485290260239852,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 1.5203977866604197,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 1.556432619309274,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 1.5898302889051699,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 1.6310556463660442,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 1.6712922739567955,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 1.7089708204765395,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 1.7411893881318434,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 1.7867598017304558,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 1.8215781285387023,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 1.8663356598221363,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 1.9025086469411836,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 1.941891209819628,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 1.9791857507062314,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 2.0230205815338196,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 2.0690952107936713,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 2.107176880855114,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 2.1491168019015996,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 2.2028361100156606,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 2.2365622633106406,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 2.2832597325698987,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 2.314786258814646,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 2.350519690562501,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 2.3821453966477173,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 2.43258122749643,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 2.476486455679802,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 2.501190605843146,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 2.541582017150783,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 2.580060964026141,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 2.6279485758520345,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 2.6859277122022625,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 2.720498005529722,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 2.7640268262849914,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 2.790654342986102,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 2.8271189518377757,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 2.8569679731945596,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 2.886781448336002,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 2.9272627354318344,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 2.9616073510071286,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 2.9947138830124675,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 3.033311669718229,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 3.0729519658821176,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 3.1157959133534288,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 3.1444746073380663,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 3.188300297741337,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 3.2234187430711394,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 3.2563190676930613,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 3.304001522069959,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 3.3355613219696094,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 3.3738681600481684,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 3.409508322900572,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 3.4511497726746843,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 3.487393965166758,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 3.530767164481006,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 3.5782705334415397,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 3.6121496662629355,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 3.6601093594724627,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 3.702122905576716,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 3.7439864377516705,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 3.7711317090922694,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 3.8103929534130105,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 3.849502855736412,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 3.884453654155726,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 3.9227373502704492,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 3.959894204334194,
+      "queue_packets": 32
+    },
+    {
+      "time_s": 4.009337993540016,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 4.041885921355374,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 4.070752201717398,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 4.108780079988537,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 4.165042558590836,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 4.215641610103245,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 4.247487316386837,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 4.296486828052092,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 4.3400670888033055,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 4.385927765139122,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 4.421695425793243,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 4.464011316864108,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 4.506008727659029,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 4.538376741815854,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 4.578854894050028,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 4.6237161152110335,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 4.667018451056482,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 4.698207091880986,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 4.742566681270613,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 4.7817320039169635,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 4.8204454182388226,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 4.871674402975129,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 4.922615956307266,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 4.954420267958581,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 4.990228495503774,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 5.02079297233517,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 5.057210168074014,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 5.094631076723125,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 5.1429666067300435,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 5.1790038037859905,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 5.219811938702163,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 5.258839992682558,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 5.3005108039060636,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 5.332178861010575,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 5.3616030363835865,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 5.398856156971495,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 5.434420740444202,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 5.465840388648346,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 5.508788804242898,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 5.558264395965326,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 5.595202266796595,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 5.638243678160762,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 5.69751173483152,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 5.735477501771139,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 5.773595087989374,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 5.812312190519487,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 5.852775282299223,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 5.8903489362963075,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 5.935716632409939,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 5.974249696548879,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 6.031740306711956,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 6.078213284077868,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 6.115388723341809,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 6.162309821583399,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 6.20781796361989,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 6.253268115099599,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 6.306539820242431,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 6.334023680268074,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 6.365595745019325,
+      "queue_packets": 33
+    },
+    {
+      "time_s": 6.404606478606703,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 6.44259233826202,
+      "queue_packets": 40
+    },
+    {
+      "time_s": 6.488692436668639,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 6.523429794534429,
+      "queue_packets": 35
+    },
+    {
+      "time_s": 6.568392560609157,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 6.596966368259733,
+      "queue_packets": 33
+    },
+    {
+      "time_s": 6.63785188007021,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 6.674177786446321,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 6.70951917239941,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 6.748969859965375,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 6.793275159166523,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 6.834977585647949,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 6.867177979110946,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 6.902021246770205,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 6.929090696494023,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 6.970581225376911,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 7.004592943723218,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 7.039127311035615,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 7.067536097205874,
+      "queue_packets": 34
+    },
+    {
+      "time_s": 7.097635783956902,
+      "queue_packets": 43
+    },
+    {
+      "time_s": 7.150992989694955,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 7.203646764900164,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 7.232604666854401,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 7.279193272568797,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 7.32603521983762,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 7.363424021010763,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 7.4149122435452695,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 7.458237738630641,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 7.4967581860747945,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 7.543739387116634,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 7.57243792562065,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 7.61661646535509,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 7.674061126888787,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 7.710317743027586,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 7.740277471862808,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 7.786018851786023,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 7.814565859845956,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 7.849461737119401,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 7.8899819013877,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 7.934563114254775,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 7.980144994542134,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 8.027748574293833,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 8.065582383611765,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 8.105090982500268,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 8.14504521881373,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 8.185685242782668,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 8.216188716337557,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 8.248222607490034,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 8.289498775344232,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 8.323014189509541,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 8.35878300493078,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 8.39895970112792,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 8.43550802999578,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 8.483224366531124,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 8.524651416792993,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 8.56306706367006,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 8.621099979751015,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 8.672503774129193,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 8.707995601776991,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 8.744937186852507,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 8.793067698305066,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 8.832402938214669,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 8.875766193053966,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 8.927836067143241,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 8.9651593888247,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 8.989397986776984,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 9.024716893069483,
+      "queue_packets": 32
+    },
+    {
+      "time_s": 9.054149845971825,
+      "queue_packets": 35
+    },
+    {
+      "time_s": 9.114105660823473,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 9.145811480767199,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 9.18738679885942,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 9.223213378688184,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 9.272514583168105,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 9.31600790241119,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 9.348633268757823,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 9.386453480452156,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 9.424079887863723,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 9.460759060655894,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 9.504129044787026,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 9.537868080847753,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 9.581660755670665,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 9.624407740976507,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 9.672792850588852,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 9.713225323465865,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 9.744003941053826,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 9.774526999947579,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 9.819354083835007,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 9.851710395319706,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 9.885908756285477,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 9.936141357927466,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 9.975965357261376,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 10.007427614749291,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 10.04236039312001,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 10.084167515173228,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 10.116749041223468,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 10.169550812556377,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 10.21159034296319,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 10.24109876968462,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 10.29057690606722,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 10.330676988333211,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 10.369129023923124,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 10.412296976409532,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 10.447173469966907,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 10.488758095990438,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 10.523744774448534,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 10.561162394580865,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 10.603600914904051,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 10.642776444228364,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 10.681664050984082,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 10.727267394695797,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 10.778308765579993,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 10.816236976453789,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 10.86155629369521,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 10.90593220439095,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 10.952373651806798,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 10.98895958564981,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 11.037164804664506,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 11.073055030537446,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 11.111039391657435,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 11.150824272218365,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 11.216736885188002,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 11.256794330434836,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 11.311446868693219,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 11.36494292287362,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 11.401422447285753,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 11.432749956063278,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 11.46683949495778,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 11.502733576129565,
+      "queue_packets": 35
+    },
+    {
+      "time_s": 11.542061230594827,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 11.56920067932472,
+      "queue_packets": 48
+    },
+    {
+      "time_s": 11.614700071450223,
+      "queue_packets": 40
+    },
+    {
+      "time_s": 11.662205890146595,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 11.708283439849017,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 11.765329034384644,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 11.794078814072323,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 11.835466347065282,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 11.886377139331898,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 11.923963292259565,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 11.963499726583509,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 11.993949620228081,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 12.031384182634298,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 12.06659041018995,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 12.107708770060018,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 12.15975289414822,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 12.19008631174526,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 12.226122648963287,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 12.265301347032178,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 12.309802179134284,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 12.35336379253789,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 12.38935430495459,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 12.440306298181545,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 12.474994205468786,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 12.517475245638964,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 12.548791567632344,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 12.584517659376942,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 12.615744086382149,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 12.657609980380766,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 12.6903847885756,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 12.741119835323978,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 12.775375346110609,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 12.828319252106093,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 12.855854083979452,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 12.893614223775591,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 12.935656020659255,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 12.960837563489699,
+      "queue_packets": 33
+    },
+    {
+      "time_s": 12.998372353633902,
+      "queue_packets": 32
+    },
+    {
+      "time_s": 13.057712777477619,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 13.09328044966916,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 13.140587726470725,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 13.181132243254666,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 13.222304915497755,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 13.253666638349813,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 13.294559241303483,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 13.3351063823995,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 13.377419985738019,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 13.407353761781257,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 13.444929169171594,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 13.480212571969526,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 13.524047199171058,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 13.578584282857241,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 13.612120515829071,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 13.639652053890666,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 13.685402663074184,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 13.723831381860233,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 13.78088380181709,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 13.823046431666292,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 13.862056570895142,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 13.906179709772976,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 13.939266966554756,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 13.97067346280022,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 14.011109934079448,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 14.052361347455328,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 14.08870721595794,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 14.119301580869163,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 14.16494324925924,
+      "queue_packets": 32
+    },
+    {
+      "time_s": 14.20048096615452,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 14.241959611269445,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 14.259580240067487,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 14.302326984532819,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 14.358017369855391,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 14.394196142851193,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 14.427899446572152,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 14.473297798350423,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 14.518483004336833,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 14.55563453899034,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 14.59344764691037,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 14.628316092960606,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 14.66739285738812,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 14.717182507110918,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 14.754851473717544,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 14.796823094541354,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 14.824731838542366,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 14.865329535517258,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 14.906476285203599,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 14.946299131568168,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 14.99446757139657,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 15.038646322961316,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 15.073572176696947,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 15.10929618048839,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 15.159121787102967,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 15.192900908152518,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 15.231034251384553,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 15.270392031306214,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 15.321665394862293,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 15.363566905220429,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 15.40126004847252,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 15.457592805023879,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 15.494874838386266,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 15.532048734100524,
+      "queue_packets": 14
+    },
+    {
+      "time_s": 15.584006186090072,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 15.618504621283972,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 15.656725270126776,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 15.685411008160486,
+      "queue_packets": 35
+    },
+    {
+      "time_s": 15.736802015212037,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 15.764647818459647,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 15.799805371546135,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 15.84702792151803,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 15.890317559027663,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 15.932134451818195,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 15.968508900790967,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 16.00767622498112,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 16.04443241820592,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 16.0803158097877,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 16.118280090849467,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 16.15129044475703,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 16.193078103294987,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 16.214850851272775,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 16.253849797733864,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 16.30831047654238,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 16.35891668345704,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 16.394198195341364,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 16.42212437493551,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 16.457075183449778,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 16.50642281505039,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 16.559496881947865,
+      "queue_packets": 1
+    },
+    {
+      "time_s": 16.60199644716635,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 16.638653927918718,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 16.678435077791463,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 16.715379182158305,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 16.753393213186676,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 16.791232445444834,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 16.817743330855425,
+      "queue_packets": 37
+    },
+    {
+      "time_s": 16.86310333611417,
+      "queue_packets": 33
+    },
+    {
+      "time_s": 16.90388205840297,
+      "queue_packets": 35
+    },
+    {
+      "time_s": 16.947947646615035,
+      "queue_packets": 24
+    },
+    {
+      "time_s": 16.99862687573967,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 17.03545715749911,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 17.064872225661972,
+      "queue_packets": 23
+    },
+    {
+      "time_s": 17.102322414952095,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 17.14650614441542,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 17.183453212022176,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 17.221603667449344,
+      "queue_packets": 7
+    },
+    {
+      "time_s": 17.248982136842475,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 17.29916968269895,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 17.327887563652403,
+      "queue_packets": 8
+    },
+    {
+      "time_s": 17.374259665933472,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 17.403295954419917,
+      "queue_packets": 12
+    },
+    {
+      "time_s": 17.448769473045054,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 17.489650480127313,
+      "queue_packets": 13
+    },
+    {
+      "time_s": 17.524238554058467,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 17.570207180761923,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 17.602705532084805,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 17.642715545422575,
+      "queue_packets": 22
+    },
+    {
+      "time_s": 17.685424536600443,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 17.72592271901292,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 17.76597046874274,
+      "queue_packets": 18
+    },
+    {
+      "time_s": 17.80772518963061,
+      "queue_packets": 16
+    },
+    {
+      "time_s": 17.843108589907153,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 17.874460819772292,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 17.900531639860542,
+      "queue_packets": 29
+    },
+    {
+      "time_s": 17.940241332230816,
+      "queue_packets": 25
+    },
+    {
+      "time_s": 17.96987241835689,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 18.00125311485044,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 18.03800964647543,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 18.09095483607446,
+      "queue_packets": 19
+    },
+    {
+      "time_s": 18.13394903745784,
+      "queue_packets": 10
+    },
+    {
+      "time_s": 18.18108938569276,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 18.223059182391925,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 18.26520678548255,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 18.302890754284977,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 18.342627211449066,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 18.38588197668134,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 18.424917542064016,
+      "queue_packets": 5
+    },
+    {
+      "time_s": 18.467716373632904,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 18.495286461546165,
+      "queue_packets": 15
+    },
+    {
+      "time_s": 18.534591982967243,
+      "queue_packets": 20
+    },
+    {
+      "time_s": 18.569590297400946,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 18.60496157816089,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 18.6467682247973,
+      "queue_packets": 38
+    },
+    {
+      "time_s": 18.676834954867367,
+      "queue_packets": 46
+    },
+    {
+      "time_s": 18.707707342733208,
+      "queue_packets": 42
+    },
+    {
+      "time_s": 18.750210319165657,
+      "queue_packets": 30
+    },
+    {
+      "time_s": 18.80427357812692,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 18.856120114903614,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 18.89739593857799,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 18.93204071487701,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 18.972845821544983,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 19.013658784261697,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 19.048974534892057,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 19.09907762460859,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 19.1427554316204,
+      "queue_packets": 3
+    },
+    {
+      "time_s": 19.18626599551519,
+      "queue_packets": 6
+    },
+    {
+      "time_s": 19.229314051886167,
+      "queue_packets": 9
+    },
+    {
+      "time_s": 19.26602569325189,
+      "queue_packets": 11
+    },
+    {
+      "time_s": 19.306114510137796,
+      "queue_packets": 17
+    },
+    {
+      "time_s": 19.345884348424722,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 19.383258142485772,
+      "queue_packets": 27
+    },
+    {
+      "time_s": 19.42655881762512,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 19.470836474509866,
+      "queue_packets": 28
+    },
+    {
+      "time_s": 19.503735389505156,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 19.539421513425008,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 19.572578441166023,
+      "queue_packets": 36
+    },
+    {
+      "time_s": 19.607610532063298,
+      "queue_packets": 31
+    },
+    {
+      "time_s": 19.64737558965975,
+      "queue_packets": 26
+    },
+    {
+      "time_s": 19.6816018156532,
+      "queue_packets": 21
+    },
+    {
+      "time_s": 19.737455529969687,
+      "queue_packets": 4
+    },
+    {
+      "time_s": 19.78649389475817,
+      "queue_packets": 2
+    },
+    {
+      "time_s": 19.838015831371674,
+      "queue_packets": 1
+    }
+  ],
+  "assumptions": "Poisson arrivals; FIFO queue; constant packet size; service time = packet bits / configured link bandwidth; fixed propagation delay is configurable but excluded from queue delay metric."
+}

@@ -1,0 +1,16 @@
+{
+  "trace_file": "red.tr",
+  "source_node": 0,
+  "destination_node": 3,
+  "packets_sent": 3400,
+  "packets_received": 2149,
+  "packets_lost": 1251,
+  "trace_drop_events": 1251,
+  "packet_delivery_ratio_pct": 63.206,
+  "packet_loss_pct": 36.794,
+  "throughput_mbps": 1.7192,
+  "average_delay_ms": 115.8043,
+  "observation_duration_s": 10.0,
+  "malformed_rows_ignored": 0,
+  "metric_note": "Classic NS2 trace estimate. Sent/received counts use source/destination node and packet UID."
+}
